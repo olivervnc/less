@@ -1,25 +1,25 @@
 # cf-wkrs-pages-vless
 
-在 CloudFlare Workers 或 Pages 部署 vless 节点
+This repository provides instructions and resources for deploying vless nodes on CloudFlare Workers or Pages.
 
-## 部署教程
+## Deployment Guide
 
-- Workers 教程地址：https://blog.misaka.rest/2023/07/29/cf-wkrs-vless/
-- Pages 教程地址：https://blog.misaka.rest/2023/07/29/cf-pages-vless/
+- Workers tutorial: [https://blog.misaka.rest/2023/07/29/cf-wkrs-vless/](https://blog.misaka.rest/2023/07/29/cf-wkrs-vless/)
+- Pages tutorial: [https://blog.misaka.rest/2023/07/29/cf-pages-vless/](https://blog.misaka.rest/2023/07/29/cf-pages-vless/)
 
-## 鸣谢项目
+## Acknowledgements
 
-- zizifn：https://github.com/zizifn/edgetunnel
-- 3Kmfi6HP：https://github.com/3Kmfi6HP/EDtunnel
+- zizifn: [https://github.com/zizifn/edgetunnel](https://github.com/zizifn/edgetunnel)
+- 3Kmfi6HP: [https://github.com/3Kmfi6HP/EDtunnel](https://github.com/3Kmfi6HP/EDtunnel)
 
-## 注意事项
+## Important Notes
 
-1. 由于 Workers 节点的 IP 变动频繁，因此请勿在此节点登录重要账号
-2. 由于 pages.dev 域名默认启用了 HSTS，所以无法使用非 TLS 端口的节点
-3. 请勿滥用！
+1. Due to frequent IP changes of Workers nodes, please refrain from logging in to important accounts through this node.
+2. pages.dev domain enables HSTS by default, so non-TLS ports cannot be used with this node.
+3. Please do not abuse!
 
-## 赞助
+## Sponsorship
 
-爱发电：https://afdian.net/a/Misaka-blog
+Support me on Afdian: [https://afdian.net/a/Misaka-blog](https://afdian.net/a/Misaka-blog)
 
 ![afdian-MisakaNo の 小破站](https://user-images.githubusercontent.com/122191366/211533469-351009fb-9ae8-4601-992a-abbf54665b68.jpg)
