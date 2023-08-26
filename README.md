@@ -1,25 +1,29 @@
 # cf-wkrs-pages-vless
-
-在 CloudFlare Workers 或 Pages 部署 vless 节点
-
-## 部署教程
-
-- Workers 教程地址：https://blog.misaka.rest/2023/07/29/cf-wkrs-vless/
-- Pages 教程地址：https://blog.misaka.rest/2023/07/29/cf-pages-vless/
-
-## 鸣谢项目
-
-- zizifn：https://github.com/zizifn/edgetunnel
-- 3Kmfi6HP：https://github.com/3Kmfi6HP/EDtunnel
-
-## 注意事项
-
-1. 由于 Workers 节点的 IP 变动频繁，因此请勿在此节点登录重要账号
-2. 由于 pages.dev 域名默认启用了 HSTS，所以无法使用非 TLS 端口的节点
-3. 请勿滥用！
-
-## 赞助
-
-爱发电：https://afdian.net/a/Misaka-blog
-
-![afdian-MisakaNo の 小破站](https://user-images.githubusercontent.com/122191366/211533469-351009fb-9ae8-4601-992a-abbf54665b68.jpg)
+This repository provides instructions and resources for deploying vless nodes on CloudFlare Workers or Pages.
+## Description
+cf-wkrs-pages-vless is a project that aims to simplify the deployment of vless nodes on CloudFlare Workers or Pages. It provides step-by-step instructions and resources to help you set up and configure your own vless nodes.
+## Features
+- Easy deployment of vless nodes on CloudFlare Workers or Pages
+- Support for both Workers and Pages tutorials
+- Acknowledgements to zizifn and 3Kmfi6HP for their contributions
+## Installation
+To get started with cf-wkrs-pages-vless, follow these steps:
+1. Clone the repository to your local machine.
+2. Navigate to the project directory.
+3. Follow the Workers tutorial or Pages tutorial, depending on your preferred deployment method.
+## Usage
+Once you have successfully deployed your vless nodes using cf-wkrs-pages-vless, you can start using them to secure your network connections. Here's an example of how to use the vless nodes:
+```bash
+# Example code snippet
+```
+For more detailed usage instructions, please refer to the Workers tutorial or Pages tutorial.
+## Contributing
+We welcome contributions to cf-wkrs-pages-vless! If you encounter any issues, have feature requests, or want to contribute code, please follow these guidelines:
+- Bug reports: Please submit bug reports through the issue tracker, providing detailed information about the issue and steps to reproduce it.
+- Feature requests: If you have any ideas for new features or improvements, please open an issue and describe your proposal.
+- Pull requests: If you want to contribute code, please fork the repository, create a new branch for your changes, and submit a pull request with a clear description of your changes.
+## License
+cf-wkrs-pages-vless is licensed under the [MIT License](https://opensource.org/licenses/MIT).
+## Contact
+For any inquiries or questions, please contact us at [email@example.com](mailto:email@example.com).
+For more information and resources, please visit the [documentation](https://example.com/docs).
